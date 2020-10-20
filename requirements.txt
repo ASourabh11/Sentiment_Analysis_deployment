@@ -11,4 +11,4 @@ scipy>=0.15.1
 scikit-learn>=0.18
 pandas>=0.19
 nltk>=3.4.5
-pckle>=4.0
+pickle>=4.0
